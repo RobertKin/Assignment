@@ -1,6 +1,6 @@
 body {
   color: black;
-  background-image: linear-gradient(to right, #2c0ca0, #dff1df));
+  background-image: linear-gradient(to right, #2c0ca0, #dff1df);
   position: static;
 }
 
@@ -8,9 +8,9 @@ nav {
   position: fixed;
   margin-top: 250px;
   margin-left: 100px;
-  background-image: linear-gradient(to right, #dff1df, #2c0ca0);
+  background-image: linear-gradient(to right,#dff1df, #2c0ca0);
   display: inline-block;
-  border-radius: 50px;
+  border-radius: 48px;
 }
 
 nav .navi li {
